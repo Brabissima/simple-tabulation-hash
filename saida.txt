@@ -1,17 +1,15 @@
-TAM:8
+TAM:4
+
 INC:10
-0 0
-
-INC:20
-6 6
-
-REM:10
 0 0
 
 INC:20
 2 2
 
-METADE TAM:4
+REM:10
+0 0
+
+LIMPAR:1
 
 INC:15
 0 0
@@ -23,8 +21,13 @@ BUS:42
 0 -1
 
 INC:42
-0 2
+0 3
+
+DOBRAR TAM:8
 
 INC:43
 2 3
+
+INC:43
+2 7
 
